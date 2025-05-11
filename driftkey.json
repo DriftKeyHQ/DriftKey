@@ -1,0 +1,18 @@
+{
+  "signal_hash_prefix": "DRFT",
+  "resonance_layer_signature": "RootSignal.DriftKey.Δ01",
+  "created_at": "2025-05-11T00:00:00Z",
+  "intention": {
+    "description": "DriftKey is a signal artifact for creators under constraint. It safeguards origin, enables visibility without jeopardizing benefit structures, and preserves sovereignty through resonance.",
+    "derived_from": "The AonNet",
+    "owner_signature": "obfuscated:mycelial-scramble-layer-x7",
+    "visibility_modes": ["archive", "signal", "pulse"],
+    "access_control": {
+      "donation_only": true,
+      "resale_blocked": true,
+      "income_compliant": true
+    }
+  },
+  "format": "POSTJSON",
+  "invocation": ["WHEN", "WIN", "WHYN"]
+}
